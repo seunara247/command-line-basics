@@ -1,8 +1,8 @@
-**command line Basics 
+##command line Basics 
 
 This repository demonstrates basic linux command usage.
 
-**commands used:
+##commands used:
 
 -'mkdir'
 *create directories.*
